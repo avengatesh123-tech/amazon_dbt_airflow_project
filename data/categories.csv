@@ -1,0 +1,16 @@
+category_id,category_name,parent_category_id,created_timestamp,updated_timestamp,is_active
+1,Electronics,,2024-09-10 19:58:01,2025-02-17 19:58:01,Y
+2,Mobiles & Accessories,,2026-02-25 00:00:04,2026-07-13 00:00:04,Y
+3,Computers,,2022-04-22 12:49:51,2022-09-27 12:49:51,Y
+4,Home & Kitchen,,2022-08-01 13:49:14,2022-09-30 13:49:14,Y
+5,Fashion,,2024-06-11 20:31:53,2024-08-08 20:31:53,Y
+6,Books,,2022-10-08 19:10:17,2023-01-27 19:10:17,Y
+7,Sports & Fitness,,2022-11-02 20:27:04,2023-05-15 20:27:04,Y
+8,Beauty & Personal Care,,2022-11-09 06:21:46,2023-03-02 06:21:46,Y
+9,Fashion - Nesciunt,1,2023-06-01 21:03:26,2023-11-25 21:03:26,Y
+10,Electronics - Aperiam,5,2022-05-23 21:20:06,2022-08-14 21:20:06,Y
+11,Sports & Fitness - Tempora,3,2025-01-18 16:57:51,2025-04-23 16:57:51,Y
+12,Sports & Fitness - Veniam,3,2024-01-29 16:40:49,2024-06-12 16:40:49,Y
+13,Mobiles & Accessories - Repudiandae,7,2023-06-13 02:53:58,2023-07-27 02:53:58,Y
+14,Computers - Cupiditate,4,2024-01-19 05:34:15,2024-05-25 05:34:15,Y
+15,Fashion - Odio,8,2025-12-03 17:49:47,2026-05-15 17:49:47,Y

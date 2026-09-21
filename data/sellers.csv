@@ -1,0 +1,41 @@
+seller_id,seller_name,city,state,country,seller_rating,created_timestamp,updated_timestamp,is_active
+1,"Venkatesh, Viswanathan and Nazareth",Guntur,Karnataka,India,3.99,2023-05-31 12:05:58,2023-08-17 12:05:58,Y
+2,Parmer-Guha,Sambhal,Andhra Pradesh,India,2.81,2024-06-15 16:21:55,2024-10-05 16:21:55,Y
+3,Kapur Ltd,Rajpur Sonarpur,Telangana,India,3.75,2025-06-04 13:12:37,2025-08-12 13:12:37,Y
+4,Thaman and Sons,Ambarnath,Tamil Nadu,India,2.6,2022-09-07 22:10:45,2023-02-07 22:10:45,Y
+5,"Barad, Prashad and Kumer",Hindupur,Arunachal Pradesh,India,3.13,2024-09-28 10:02:20,2025-03-01 10:02:20,Y
+6,"Chokshi, Bahri and Bava",Erode,Manipur,India,4.18,2022-03-06 10:53:35,2022-09-17 10:53:35,Y
+7,Dasgupta-Krishnan,Jamnagar,Gujarat,India,4.39,2022-05-05 23:53:27,2022-11-16 23:53:27,Y
+8,"Andra, Mitra and Salvi",Saharsa,Himachal Pradesh,India,2.95,2025-10-05 23:00:50,2025-12-15 23:00:50,Y
+9,"Devan, Sahota and Cheema",Ichalkaranji,Bihar,India,3.68,2026-03-08 17:43:59,2026-03-31 17:43:59,Y
+10,Tank and Sons,Firozabad,Uttarakhand,India,2.76,2024-09-24 11:50:19,2025-03-14 11:50:19,Y
+11,"Jaggi, Parmar and Rout",Nanded,Arunachal Pradesh,India,3.74,2025-07-02 22:28:57,2025-12-26 22:28:57,Y
+12,"Taneja, Johal and Srivastava",Noida,Andhra Pradesh,India,3.88,2025-05-29 03:53:02,2025-12-09 03:53:02,Y
+13,Chakraborty Inc,Jalgaon,Assam,India,3.31,2024-09-04 04:05:56,2024-11-07 04:05:56,N
+14,"Borde, Chaudhuri and Kunda",Sirsa,Jharkhand,India,4.56,2025-06-09 17:28:35,2025-10-18 17:28:35,Y
+15,Shetty-Bedi,Akola,West Bengal,India,3.53,2026-08-13 18:42:38,2026-12-09 18:42:38,Y
+16,Mannan LLC,Purnia,Telangana,India,4.39,2025-01-29 00:13:27,2025-07-07 00:13:27,Y
+17,Chandran Inc,Durgapur,Sikkim,India,3.17,2022-06-10 08:27:11,2022-08-01 08:27:11,Y
+18,"Garde, Narasimhan and Parmar",Agartala,Telangana,India,4.7,2024-06-13 21:00:35,2024-10-03 21:00:35,Y
+19,Pradhan LLC,Raipur,Madhya Pradesh,India,4.02,2022-03-31 16:39:41,2022-09-08 16:39:41,Y
+20,Shan-Magar,Morena,Uttar Pradesh,India,3.88,2023-05-08 01:31:55,2023-07-26 01:31:55,Y
+21,Ganesan-Chowdhury,Allahabad,West Bengal,India,4.98,2022-10-17 14:10:55,2022-12-13 14:10:55,N
+22,Chawla Group,Jehanabad,Sikkim,India,4.12,2025-12-04 16:02:54,2026-01-03 16:02:54,Y
+23,Golla-Raghavan,Pudukkottai,Andhra Pradesh,India,4.26,2024-06-25 18:46:30,2024-11-02 18:46:30,Y
+24,"De, Subramanian and Sura",Bulandshahr,Manipur,India,3.11,2026-02-08 01:46:33,2026-06-08 01:46:33,Y
+25,Bhatnagar LLC,Ahmedabad,Tamil Nadu,India,4.8,2025-04-06 18:14:47,2025-05-24 18:14:47,Y
+26,"Vohra, Kapur and Nigam",Bhiwani,Sikkim,India,3.19,2023-03-01 02:47:59,2023-03-18 02:47:59,Y
+27,"Kothari, Subramaniam and Pal",Jalgaon,Uttarakhand,India,4.84,2025-07-13 04:20:58,2025-10-08 04:20:58,Y
+28,"Bhagat, Apte and Dugar",Shimla,West Bengal,India,4.32,2022-01-08 23:16:46,2022-03-21 23:16:46,Y
+29,Borde Group,New Delhi,Karnataka,India,3.62,2026-03-02 06:13:48,2026-04-09 06:13:48,Y
+30,Bedi-Tripathi,Jamalpur,Rajasthan,India,4.41,2024-10-29 20:31:10,2025-03-19 20:31:10,Y
+31,Rau-Keer,Jaunpur,Manipur,India,4.95,2024-09-26 17:27:29,2024-11-13 17:27:29,Y
+32,"Sem, Chakrabarti and Tara",Satna,Bihar,India,4.64,2025-04-04 20:22:34,2025-06-02 20:22:34,Y
+33,Badami-Chauhan,Haridwar,Arunachal Pradesh,India,3.68,2024-09-15 12:56:47,2025-03-24 12:56:47,N
+34,"Acharya, Chand and Modi",Sirsa,Karnataka,India,4.97,2025-03-30 10:39:17,2025-07-06 10:39:17,Y
+35,Bhagat-Kapoor,Bathinda,Nagaland,India,4.91,2023-04-18 13:47:40,2023-08-22 13:47:40,Y
+36,"Solanki, Patla and Sethi",Jalandhar,Tripura,India,4.69,2024-10-28 11:19:09,2024-11-22 11:19:09,Y
+37,"Kapadia, Agate and Om",Jalna,Nagaland,India,2.54,2026-06-23 01:45:18,2026-10-17 01:45:18,Y
+38,"Prakash, Cherian and Bath",Kumbakonam,Chhattisgarh,India,3.67,2023-04-25 14:00:24,2023-05-14 14:00:24,N
+39,"Rout, Chhabra and Kumar",Maheshtala,Bihar,India,4.23,2024-11-17 20:57:19,2025-04-25 20:57:19,Y
+40,Kale-Shankar,Sonipat,Bihar,India,4.65,2024-10-17 19:37:32,2025-04-07 19:37:32,Y
