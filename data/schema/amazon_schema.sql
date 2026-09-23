@@ -104,7 +104,7 @@ ALTER TABLE order_items
     ADD CONSTRAINT fk_order_items_order FOREIGN KEY (order_id) REFERENCES orders(order_id),
     ADD CONSTRAINT fk_order_items_product FOREIGN KEY (product_id) REFERENCES products(product_id),
     ADD CONSTRAINT fk_order_items_seller FOREIGN KEY (seller_id) REFERENCES sellers(seller_id);
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 ALTER TABLE reviews
     ADD CONSTRAINT fk_reviews_product FOREIGN KEY (product_id) REFERENCES products(product_id),
     ADD CONSTRAINT fk_reviews_customer FOREIGN KEY (customer_id) REFERENCES customers(customer_id),
