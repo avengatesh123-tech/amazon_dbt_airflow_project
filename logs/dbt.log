@@ -1,0 +1,67 @@
+[0m20:58:28.209318 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002AA51C32DD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002AA51FF7C50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002AA52053950>]}
+
+
+============================== 20:58:28.212525 | 59697126-c8a1-4e75-8a3d-3433c45fb621 ==============================
+[0m20:58:28.212525 [info ] [MainThread]: Running with dbt=1.9.11
+[0m20:58:28.212525 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'None', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'profiles_dir': 'C:\\Users\\Vengadesan A\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'use_colors': 'True', 'invocation_command': 'dbt init', 'indirect_selection': 'eager', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m20:58:28.848593 [warn ] [MainThread]: [[33mWARNING[0m]: This version of dbt is deprecated and no longer receives regular patches, including for known bugs. Please upgrade to a newer supported version of dbt for new projects: https://docs.getdbt.com/docs/dbt-versions?utm_source=dbt-cli
+[0m20:58:28.848593 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'deprecated_version_invocation', 'label': '59697126-c8a1-4e75-8a3d-3433c45fb621', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002AA52070110>]}
+[0m20:58:28.848593 [warn ] [MainThread]: [ConfigFolderDirectory]: Unable to parse logging event dictionary. Failed to parse dir field: expected string or bytes-like object, got 'WindowsPath'.. Dictionary: {'dir': WindowsPath('C:/Users/Vengadesan A/.dbt')}
+[0m20:58:28.848593 [info ] [MainThread]: Creating dbt configuration folder at 
+[0m21:04:16.212500 [debug] [MainThread]: Starter project path: P:\amz_dbt_pro\.venv\Lib\site-packages\dbt\include\starter_project
+[0m21:04:16.344226 [info ] [MainThread]: 
+Your new dbt project "amazon_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m21:04:16.344226 [info ] [MainThread]: Setting up your profile.
+[0m21:04:16.344226 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No adapters available. Learn how to install an adapter by going to https://docs.getdbt.com/docs/connect-adapters#install-using-the-cli
+[0m21:04:16.352555 [debug] [MainThread]: Command `dbt init` failed at 21:04:16.352555 after 348.30 seconds
+[0m21:04:16.352555 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002AA52004F50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002AA51FFA150>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002AA51FF7CD0>]}
+[0m21:04:16.354568 [debug] [MainThread]: Flushing usage events
+[0m21:04:21.080285 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m21:13:48.885523 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EEBECC0E50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EEBEC91F90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EEBEBD7AD0>]}
+
+
+============================== 21:13:48.891559 | ad542c86-77fe-414c-a9e1-b80f66e1e90c ==============================
+[0m21:13:48.891559 [info ] [MainThread]: Running with dbt=1.9.8
+[0m21:13:48.893569 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'profiles_dir': 'C:\\Users\\Vengadesan A\\.dbt', 'log_path': 'logs', 'fail_fast': 'False', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'log_format': 'default', 'static_parser': 'True', 'target_path': 'None', 'invocation_command': 'dbt init', 'send_anonymous_usage_stats': 'True'}
+[0m21:13:59.294686 [debug] [MainThread]: Starter project path: P:\amz_dbt_pro\.venv\Lib\site-packages\dbt\include\starter_project
+[0m21:13:59.436520 [info ] [MainThread]: 
+Your new dbt project "dbt_pro" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m21:13:59.436520 [info ] [MainThread]: Setting up your profile.
+[0m21:14:05.714094 [debug] [MainThread]: Spark adapter: Setting pyhive.hive logging to ERROR
+[0m21:14:05.714094 [debug] [MainThread]: Spark adapter: Setting thrift.transport logging to ERROR
+[0m21:14:05.714094 [debug] [MainThread]: Spark adapter: Setting thrift.protocol logging to ERROR
+[0m21:23:50.109643 [info ] [MainThread]: Profile dbt_pro written to C:\Users\Vengadesan A\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m21:23:50.112720 [debug] [MainThread]: Command `dbt init` succeeded at 21:23:50.112720 after 601.37 seconds
+[0m21:23:50.114360 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EEE96741D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EEE98BFAD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EEBEBDDDD0>]}
+[0m21:23:50.114360 [debug] [MainThread]: Flushing usage events
+[0m21:23:52.023539 [debug] [MainThread]: An error was encountered while trying to flush usage events
