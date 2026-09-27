@@ -1,1 +1,1 @@
-select count(*) from amazon.bronze.customers;
+select * from {{source('amazon_databricks', 'customers')}};
